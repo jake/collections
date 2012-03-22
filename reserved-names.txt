@@ -41,9 +41,7 @@ basket
 beta
 better
 billing
-bitch
 blog
-blows
 browse
 build
 business
@@ -88,7 +86,6 @@ create
 crew
 css
 cto
-cunt
 dashboard
 data
 debug
@@ -148,8 +145,6 @@ forums
 free
 friend
 friends
-fuck
-fucker
 game
 games
 gist
@@ -219,9 +214,6 @@ mine
 mis
 mobile
 moderator
-motherfuck
-motherfucker
-mother_fucker
 movie
 movies
 mysql
@@ -317,8 +309,6 @@ sets
 setting
 settings
 share
-shit
-shitter
 shop
 show
 shows
@@ -354,7 +344,6 @@ styleguide
 subscribe
 subscriptions
 success
-sucks
 support
 survey
 sysadmin
