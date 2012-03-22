@@ -32,6 +32,7 @@ atom
 audio
 auth
 authenticate
+authentication
 author
 avatar
 avatars
